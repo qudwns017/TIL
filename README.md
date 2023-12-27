@@ -9,5 +9,5 @@
 
 ### Spring
 
-- [Spring](Spring/lombok-guide.md)
+- [Lombok](Spring/lombok-guide.md)
 
