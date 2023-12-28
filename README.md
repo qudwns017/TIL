@@ -6,8 +6,13 @@
 
 ### Categories
 * [Spring](#spring)
+* [Java](#java)
 
 ### Spring
 
-- [Spring](Spring/lombok-guide.md)
+- [Lombok](Spring/lombok-guide.md)
 
+### Java
+
+- [OOP](Java/OOP.md)
+- [JVM](Java/JVM.md)
