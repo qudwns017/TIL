@@ -4,10 +4,8 @@
 
 하루동안 공부한 내용에 대하여 정리해놓은 글 모음입니다.
 
-### Algorithm
-* [Baekjoon Online Judge](/Algorithm/BaekJoon/)
-
 ### Categories
+* [Baekjoon Online Judge](/Algorithm/BaekJoon/)
 * [Spring](#spring)
 * [Java](#java)
 
