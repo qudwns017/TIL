@@ -6,6 +6,7 @@
 
 ### Categories
 * [Baekjoon Online Judge](/Algorithm/BaekJoon/)
+* [Computer Science](/CS/)
 * [DB](#DataBase)
 * [Spring](#spring)
 * [Java](#java)
