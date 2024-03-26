@@ -102,16 +102,3 @@
 |READ COMMITTED|X|O|O|
 |REPEATABLE READ|X|X|O|
 |SERIALZABLE|X|X|X|
-
-<!-- 질문
-1. READ COMMITED는 어떤 현상을 해결하기 위한 격리수준인가?
-- DIRTY WRITE, DIRTY READ를 해결하기 위하여 만들어짐
-2. 병행 제어 기법에는 뭐가 있나요?
-- 로킹, 타임스탬프 순서 기법, 낙관적 병행 제어, 다중 버전 병행 제어
-3. 트랜잭션 격리 수준엔 뭐가 있나요?
-- READ UNCOMMITED
-- READ COMMITED
-- REPEATABLE READ
-- SERIALIZABLE
-4. 트랜잭션이 뭘까요?
-- 데이터베이스의 상태를 변환시키는 하나의 논리적 기능을 수행하기 위한 작업의 단위-->
